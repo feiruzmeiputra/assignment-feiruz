@@ -1,4 +1,4 @@
-Aplikasi dibangun menggunakan framework Codeigniter 3
+Aplikasi dibangun menggunakan framework Codeigniter dan
 Web server menggunakan XAMPP
 
 1. Download File assignment-feiruz-main.zip 
